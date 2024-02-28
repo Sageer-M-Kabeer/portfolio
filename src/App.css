@@ -75,6 +75,7 @@ body{
   height: 100vh;
   width: 50%;
   object-fit: cover;
+  object-position: top;
   opacity: 0.2;
 }
 
